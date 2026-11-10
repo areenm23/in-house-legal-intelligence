@@ -1,0 +1,5 @@
+[{"name": "ens_topG", "runs": ["G_lora_focal", "G_lora_nocw", "G_lora_w1024", "G_lora", "G_rslora"]},
+ {"name": "ens_top8", "runs": ["G_lora_focal", "G_lora_nocw", "As_kd", "G_lora_w1024", "G_lora", "G_rslora", "D_lorma", "G_lorma"]},
+ {"name": "ens_cross", "runs": ["G_lora_focal", "As_kd", "D_lorma", "A_lora", "C_lora", "G_rslora"]},
+ {"name": "ens_req6", "runs": ["D_lorma", "A_adalora", "C_lora", "B_rslora", "A_qlora", "As_kd"]},
+ {"name": "ens_full", "runs": ["G_lora__full", "As_kd__full", "G_adalora__full", "A_lorma__full", "D_lora__full"]}]

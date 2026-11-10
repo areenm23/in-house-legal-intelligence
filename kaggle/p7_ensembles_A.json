@@ -1,0 +1,2 @@
+[{"name": "ens_GA", "runs": ["G_lorma", "A_lorma"]},
+ {"name": "ens_top4", "runs": ["G_lorma", "A_lorma", "As_kd", "G_qlora"]}]

@@ -1,0 +1,10 @@
+{
+ "temperature": 0.5,
+ "top_p": 0.9,
+ "no_repeat_ngram": 4,
+ "suppress_eos": true,
+ "max_new_tokens": 256,
+ "max_prompt_tokens": 768,
+ "batch_size": 64,
+ "seed": 0
+}

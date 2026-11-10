@@ -1,0 +1,10 @@
+torch>=2.1
+numpy
+scipy
+scikit-learn
+tokenizers
+huggingface_hub
+bert-score
+rouge-score
+matplotlib
+pytest

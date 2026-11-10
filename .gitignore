@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+_cache/
+data/
+results/
+runs_p*/
+*.pt
+*.npz
+*.zip
+kaggle/out/

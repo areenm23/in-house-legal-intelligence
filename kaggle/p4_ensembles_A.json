@@ -1,0 +1,3 @@
+[{"name": "ens_GA", "runs": ["G_lorma", "A_lorma"]},
+ {"name": "ens_GA_hier", "runs": ["G_lorma__h_gru", "A_lorma__h_gru"]},
+ {"name": "ens_A5", "runs": ["G_lorma__h_gru", "A_lorma__h_gru", "G_lorma", "A_lorma", "As_kd"]}]

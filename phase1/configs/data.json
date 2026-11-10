@@ -1,0 +1,31 @@
+{
+  "full": {
+    "tokenizer": {
+      "vocab_size": 32755,
+      "mb_per_source": 40
+    },
+    "profile": false,
+    "val_frac": 0.005,
+    "budgets": {
+      "acts": "all",
+      "high_courts": 450000000.0,
+      "supreme_court": 250000000.0,
+      "tribunals": 350000000.0
+    },
+    "val_tokens_per_source": 1000000,
+    "dev_examples_per_source": 75
+  },
+  "smoke": {
+    "tokenizer": {
+      "vocab_size": 2000,
+      "mb_per_source": 20
+    },
+    "val_frac": 0.01,
+    "budgets": {
+      "acts": 20000000.0
+    },
+    "val_tokens_per_source": 1000000,
+    "dev_examples_per_source": 20,
+    "profile": false
+  }
+}

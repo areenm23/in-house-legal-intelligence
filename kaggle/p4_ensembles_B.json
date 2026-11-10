@@ -1,0 +1,2 @@
+[{"name": "ens_BCD", "runs": ["B_bitfit", "C_houlsby", "D_partial"]},
+ {"name": "ens_hier_ab", "runs": ["G_ab_hier4", "G_ab_hier4_gru", "G_ab_last"]}]
